@@ -48,7 +48,7 @@ Oct 18
 
 Oct 19 
 | Time       | Title          | Teacher  | Material  |
-| ------------- |:--------------------------------------------:| :-----:| :-----:|
+| ------------- |:--------------------------------------------------------------------------------------------------------:| :-----:| :-----:|
 | 09:00 – 10:45|Common model architectures and their applications | Sonja Aits ||
 | Ca 10:45 – 11:00 |Break |||
 |11:15 – 12:00 |Evaluation metrics and strategies |Sonja Aits||
