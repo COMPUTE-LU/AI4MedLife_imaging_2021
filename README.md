@@ -38,7 +38,7 @@ Students have to have a basic understanding of AI concepts, e.g. from attending 
 ## Schedule
 Oct 18
 | Time       | Title          | Teacher  | Material  |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:| -----:| -----:|
 | 09:00 – 09:45|Course and participant introduction (including journal club and examination instructions)| Sonja Aits ||
 | 09:45 – 10:15|Brief catch-up: what is AI, what is medicine and life sciences? |Sonja Aits||
 | Ca 10:15 – 10:30|Break |||
