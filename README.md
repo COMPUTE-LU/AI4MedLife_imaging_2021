@@ -37,7 +37,7 @@ Students have to have a basic understanding of AI concepts, e.g. from attending 
 
 ## Schedule
 Oct 18
-| Time       | Title          | Teacher  | Material  |
+| Time       | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Title &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Teacher  | Material  |
 | ------------- |:--------------------------------------------:| :-----:| :-----:|
 | 09:00 – 09:45|Course and participant introduction (including journal club and examination instructions)| Sonja Aits ||
 | 09:45 – 10:15|Brief catch-up: what is AI, what is medicine and life sciences? |Sonja Aits||
@@ -47,9 +47,9 @@ Oct 18
 | 13:00 – 16:00 |Technical concepts in machine learning and computer vision   |Marcus Klang||
 
 Oct 19 
-| Time       | Title          | Teacher  | Material  |
+| Time       | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Title &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Teacher  | Material  |
 | ------------- |:--------------------------------------------:| :-----:| :-----:|
-| 09:00 – 10:45|Common model architectures and their applications &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Sonja Aits ||
+| 09:00 – 10:45|Common model architectures and their applications| Sonja Aits ||
 | Ca 10:45 – 11:00 |Break |||
 |11:15 – 12:00 |Evaluation metrics and strategies |Sonja Aits||
 |12:00 – 13:00 |Lunch break |||
@@ -58,7 +58,7 @@ Oct 19
 Oct 22 
 | Time       | Title          | Teacher  | Material  |
 | ------------- |:-------------:| :-----:| :-----:|
-| 09:00 – 09:45 | Intro to lab task  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Marcus Klang | |
+| 09:00 – 09:45 | Intro to lab task| Marcus Klang | |
 | Ca 09:45 – 10:00  | Break  |  | |
 | 10:00 – 12:00   | Lab: image classification   | Self-directed  | |
 | 12:00 – 13:00 | Lunch break  |  | |
