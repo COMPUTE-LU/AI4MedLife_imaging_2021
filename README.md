@@ -12,7 +12,7 @@ The course is given as a 1.5 ECTS block course that can be extended with a 4.5 E
 ## Learning outcomes
 On passing of the course, the course participants shall be able to:
 
-Knowledge and understanding
+### Knowledge and understanding
 
 •	Describe key concepts of AI-based image/video analysis in detail
 
@@ -20,13 +20,13 @@ Knowledge and understanding
 
 •	Describe the process of training an AI model in detail
 
-Competences and Skills
+### Competences and Skills
 
 •	Identify problems which can be solved using AI-based image/video analysis, and conceive a suitable research strategy for such an AI research project
 
 •	Train AI models for image/video analysis tasks using suitable programming packages
 
-Judgement and approach
+### Judgement and approach
 
 •	Identify and discuss specific opportunities as well as ethical, societal and legal issues related to the application of AI-based image/video analysis in medicine and life sciences
 
