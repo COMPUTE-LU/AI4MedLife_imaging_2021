@@ -48,8 +48,8 @@ Oct 18
 
 Oct 19 
 | Time       | Title          | Teacher  | Material  |
-| ------------- |:--------------------------------------------------------------------------------------------------------:| :-----:| :-----:|
-| 09:00 – 10:45|Common model architectures and their applications | Sonja Aits ||
+| ------------- |:--------------------------------------------:| :-----:| :-----:|
+| 09:00 – 10:45|Common model architectures and their applications &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Sonja Aits ||
 | Ca 10:45 – 11:00 |Break |||
 |11:15 – 12:00 |Evaluation metrics and strategies |Sonja Aits||
 |12:00 – 13:00 |Lunch break |||
@@ -58,7 +58,7 @@ Oct 19
 Oct 22 
 | Time       | Title          | Teacher  | Material  |
 | ------------- |:-------------:| :-----:| :-----:|
-| 09:00 – 09:45 | Intro to lab task | Marcus Klang | |
+| 09:00 – 09:45 | Intro to lab task  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Marcus Klang | |
 | Ca 09:45 – 10:00  | Break  |  | |
 | 10:00 – 12:00   | Lab: image classification   | Self-directed  | |
 | 12:00 – 13:00 | Lunch break  |  | |
