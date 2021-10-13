@@ -42,10 +42,150 @@ Oct 18
 | 09:00 – 09:45|Course and participant introduction (including journal club and examination instructions)| Sonja Aits ||
 | 09:45 – 10:15|Brief catch-up: what is AI, what is medicine and life sciences? |Sonja Aits||
 | Ca 10:15 – 10:30|Break |||
-| 10:30 – 12:00 |Computer vision tasks and their application in medicine and life sciences  |Sonja Aits||
+| 10:30 – 12:00 |Computer vision tasks and their applications in medicine and life sciences  |Sonja Aits||
 | 12:00 – 13:00 |Lunch break  |||
 | 13:00 – 16:00 |Technical concepts in machine learning and computer vision   |Marcus Klang||
 
+Oct 19 
+| ------------- |:-------------:| :-----:| :-----:|
+09:00 – 10:45 
+
+Common model architectures and their applications 
+
+Sonja Aits 
+
+Ca 10:45 – 11:00 
+
+Break 
+
+ 
+
+11:15 – 12:00 
+
+Evaluation metrics and strategies 
+
+Sonja Aits 
+
+12:00 – 13:00 
+
+Lunch break 
+
+ 
+
+13:00 – 16:00 
+
+How to train and evaluate a model (including demo) 
+
+Marcus Klang 
+
+ 
+
+Oct 22 
+
+09:00 – 09:45 
+
+Intro to lab task 
+
+Marcus Klang 
+
+Ca 09:45 – 10:00 
+
+Break 
+
+ 
+
+10:00 – 12:00 
+
+Lab: image classification 
+
+Self-directed 
+
+12:00 – 13:00 
+
+Lunch break 
+
+ 
+
+13:00 – 14:30 
+
+Lab and examination Q & A 
+
+Marcus Klang, Sonja Aits 
+
+ 
+
+Oct 25 
+
+09:00 – 12:00 
+
+Demo: object segmentation with U-net (break ca 10:30) 
+
+Marcus Klang 
+
+12:00 – 13:00 
+
+Lunch break 
+
+ 
+
+13:00 – 14:00 
+
+Ethical, legal and societal implications of AI in medicine and life sciences 
+
+Sonja Aits 
+
+Ca 14:00 – 14:15 
+
+Break 
+
+ 
+
+14:15 – 15:45 
+
+Research examples 
+
+Sonja Aits 
+
+15:45 – 16:00 
+
+Reminder: journal club task 
+
+Sonja Aits 
+
+ 
+
+Oct 26 
+
+15:00 – 16:00 
+
+Journal club 
+
+Marcus Klang, Sonja Aits 
+
+ 
+
+Oct 28 
+
+09:00 – 12:00 
+
+Course presentations (examination) (break ca 10:30) 
+
+Marcus Klang, Sonja Aits 
+
+12:00 – 13:00 
+
+Lunch break 
+
+ 
+
+13:00 – 15:00 
+
+Course presentations (examinations) 
+
+Marcus Klang, Sonja Aits 
+
+ 
+ 
 ## Literature
 For project 1 and 2, you are expected to read at least one research article related to your projects. Suitable articles can for example be found on:
 https://www.ncbi.nlm.nih.gov/pubmed/
