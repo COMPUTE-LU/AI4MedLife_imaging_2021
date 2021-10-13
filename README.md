@@ -35,6 +35,16 @@ On passing of the course, the course participants shall be able to:
 ## Entry requirements
 Students have to have a basic understanding of AI concepts, e.g. from attending the course “Artificial Intelligence in Medicine and Life Science – Introduction (NTF014F)” or self studies, and basic programming skills in python.
 
+## Schedule
+Oct 18
+| Time       | Title          | Teacher  |
+| ------------- |:-------------:| -----:|
+| 09:00 – 09:45|Course and participant introduction (including journal club and examination instructions)| Sonja Aits |
+| 09:45 - 10:15|Brief catch-up: what is AI, what is medicine and life sciences? |Sonja Aits|
+
+
+
+
 ## Resources
 ### Literature
 For project 1 and 2, you are expected to read at least one research article related to your
