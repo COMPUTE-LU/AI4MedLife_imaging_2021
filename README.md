@@ -37,24 +37,23 @@ Students have to have a basic understanding of AI concepts, e.g. from attending 
 
 ## Schedule
 Oct 18
-| Time       | Title          | Teacher  |
+| Time       | Title          | Teacher  | Material  |
 | ------------- |:-------------:| -----:|
-| 09:00 – 09:45|Course and participant introduction (including journal club and examination instructions)| Sonja Aits |
-| 09:45 - 10:15|Brief catch-up: what is AI, what is medicine and life sciences? |Sonja Aits|
+| 09:00 – 09:45|Course and participant introduction (including journal club and examination instructions)| Sonja Aits ||
+| 09:45 – 10:15|Brief catch-up: what is AI, what is medicine and life sciences? |Sonja Aits||
+| Ca 10:15 – 10:30|Break |||
+| 10:30 – 12:00 |Computer vision tasks and their application in medicine and life sciences  |Sonja Aits||
+| 12:00 – 13:00 |Lunch break  |||
+| 13:00 – 16:00 |Technical concepts in machine learning and computer vision   |Marcus Klang||
 
-
-
-
-## Resources
-### Literature
-For project 1 and 2, you are expected to read at least one research article related to your
-projects. Suitable articles can for example be found on:
+## Literature
+For project 1 and 2, you are expected to read at least one research article related to your projects. Suitable articles can for example be found on:
 https://www.ncbi.nlm.nih.gov/pubmed/
 https://www.biorxiv.org/
 https://arxiv.org/
 
-### Further training
-To deepen your knowledge after the course, you can find additional training material on https://github.com/Aitslab/training.
+## Additional resources
+You can find optional additional training material to deepen your knowledge on https://github.com/Aitslab/training.
 
 
 
