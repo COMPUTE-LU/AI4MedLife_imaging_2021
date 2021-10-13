@@ -47,7 +47,7 @@ Oct 18
 | 13:00 – 16:00 |Technical concepts in machine learning and computer vision   |Marcus Klang||
 
 Oct 19 
-| Time       | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Title &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Teacher  | Material  |
+| Time       | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Title &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Teacher  | Material  |
 | ------------- |:--------------------------------------------:| :-----:| :-----:|
 | 09:00 – 10:45|Common model architectures and their applications| Sonja Aits ||
 | Ca 10:45 – 11:00 |Break |||
