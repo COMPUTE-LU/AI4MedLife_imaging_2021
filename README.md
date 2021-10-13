@@ -47,142 +47,48 @@ Oct 18
 | 13:00 – 16:00 |Technical concepts in machine learning and computer vision   |Marcus Klang||
 
 Oct 19 
+| Time       | Title          | Teacher  | Material  |
 | ------------- |:-------------:| :-----:| :-----:|
-09:00 – 10:45 
-
-Common model architectures and their applications 
-
-Sonja Aits 
-
-Ca 10:45 – 11:00 
-
-Break 
-
- 
-
-11:15 – 12:00 
-
-Evaluation metrics and strategies 
-
-Sonja Aits 
-
-12:00 – 13:00 
-
-Lunch break 
-
- 
-
-13:00 – 16:00 
-
-How to train and evaluate a model (including demo) 
-
-Marcus Klang 
-
- 
+| 09:00 – 10:45|Common model architectures and their applications | Sonja Aits ||
+| Ca 10:45 – 11:00 |Break |||
+|11:15 – 12:00 |Evaluation metrics and strategies |Sonja Aits||
+|12:00 – 13:00 |Lunch break |||
+|13:00 – 16:00 |How to train and evaluate a model (including demo) |Marcus Klang ||
 
 Oct 22 
-
-09:00 – 09:45 
-
-Intro to lab task 
-
-Marcus Klang 
-
-Ca 09:45 – 10:00 
-
-Break 
-
- 
-
-10:00 – 12:00 
-
-Lab: image classification 
-
-Self-directed 
-
-12:00 – 13:00 
-
-Lunch break 
-
- 
-
-13:00 – 14:30 
-
-Lab and examination Q & A 
-
-Marcus Klang, Sonja Aits 
-
- 
+| Time       | Title          | Teacher  | Material  |
+| ------------- |:-------------:| :-----:| :-----:|
+| 09:00 – 09:45 | Intro to lab task | Marcus Klang | |
+| Ca 09:45 – 10:00  | Break  |  | |
+| 10:00 – 12:00   | Lab: image classification   | Self-directed  | |
+| 12:00 – 13:00 | Lunch break  |  | |
+| 13:00 – 14:30  | Lab and examination Q & A  | Marcus Klang, Sonja Aits | |
 
 Oct 25 
+| Time       | Title          | Teacher  | Material  |
+| ------------- |:-------------:| :-----:| :-----:|
+| 09:00 – 12:00| Demo: object segmentation with U-net (break ca 10:30)  | Marcus Klang  | |
+| 12:00 – 13:00 | Lunch break  |  | |
+| 13:00 – 14:00 | Ethical, legal and societal implications of AI in medicine and life sciences   |  Sonja Aits| |
+| Ca 14:00 – 14:15  | Break  |  | |
+| 14:15 – 15:45   | Research examples   |Sonja Aits  | |
+| 15:45 – 16:00   | Reminder: journal club task  |Sonja Aits  | |
 
-09:00 – 12:00 
-
-Demo: object segmentation with U-net (break ca 10:30) 
-
-Marcus Klang 
-
-12:00 – 13:00 
-
-Lunch break 
-
- 
-
-13:00 – 14:00 
-
-Ethical, legal and societal implications of AI in medicine and life sciences 
-
-Sonja Aits 
-
-Ca 14:00 – 14:15 
-
-Break 
-
- 
-
-14:15 – 15:45 
-
-Research examples 
-
-Sonja Aits 
-
-15:45 – 16:00 
-
-Reminder: journal club task 
-
-Sonja Aits 
-
- 
 
 Oct 26 
-
-15:00 – 16:00 
-
-Journal club 
-
-Marcus Klang, Sonja Aits 
+| Time       | Title          | Teacher  | Material  |
+| ------------- |:-------------:| :-----:| :-----:|
+| 15:00 – 16:00  | Journal club | Marcus Klang, Sonja Aits | |
 
  
-
 Oct 28 
+| Time       | Title          | Teacher  | Material  |
+| ------------- |:-------------:| :-----:| :-----:|
+| 09:00 – 12:00  | Project presentations (examination)| Marcus Klang, Sonja Aits | |
+| 12:00 – 13:00  | Lunch break| | |
+| 13:00 – 15:00  | Project presentations (examination) | Marcus Klang, Sonja Aits | |
 
-09:00 – 12:00 
 
-Course presentations (examination) (break ca 10:30) 
-
-Marcus Klang, Sonja Aits 
-
-12:00 – 13:00 
-
-Lunch break 
-
- 
-
-13:00 – 15:00 
-
-Course presentations (examinations) 
-
-Marcus Klang, Sonja Aits 
 
  
  
