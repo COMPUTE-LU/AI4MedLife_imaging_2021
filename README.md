@@ -88,7 +88,8 @@ Oct 28
 | 12:00 – 13:00  | Lunch break| | |
 | 13:00 – 15:00  | Project presentations (examination) | Marcus Klang, Sonja Aits | |
 
-
+## Attendance
+It is not mandatory to attend all parts of the course to receive a pass grade as the course material will be shared and can be studied independently. However, if you are going to miss more than half a day, please get in contact with the course leader. Attendance at the examination is mandatory but if needed, an alternative examination date can be set up.
 
 ## Examination
 Grades are pass/fail. All assignments need to be uploaded to LU box folders. You will receive the links to these folders after the start of the course via email.
