@@ -102,7 +102,7 @@ https://www.biorxiv.org/
 
 https://arxiv.org/
 
-Datasets can for example be found on:
+If you do not have your own dataset, many can be found here:
 
 https://datasetsearch.research.google.com/
 
