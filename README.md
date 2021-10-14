@@ -1,7 +1,7 @@
 # AI in Medicine and Life Sciences – AI for image and video data 
 
 ## Teachers
-Sonja Aits (course coordinator), Faculty of Medicine, Lund University
+Sonja Aits, github [SonjaAits](https://github.com/SonjaAits), Faculty of Medicine, Lund University (course coordinator)
 
 Marcus Klang, LTH, Lund University
 
