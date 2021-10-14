@@ -1,1 +1,3 @@
 This folder contains the templates for the examinations
+
+AI4MedLife_imaging_project1template.pptx should be used to create the project 1 presentation.
