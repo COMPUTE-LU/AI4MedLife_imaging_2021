@@ -92,7 +92,7 @@ Oct 28
 It is not mandatory to attend all parts of the course to receive a pass grade as the course material will be shared and can be studied independently. However, if you are going to miss more than half a day, please get in contact with the course leader. Attendance at the examination is mandatory but if needed, an alternative examination date can be set up.
 
 ## Examination
-Grades are pass/fail. All assignments are to be created using the templates in the "templates" folder on this page. Completed assignments need to be uploaded to LU box folders. You will receive the links to these LU box folders after the start of the course via email.
+Grades are pass/fail. All assignments are to be created using the templates in the ["templates"](https://github.com/COMPUTE-LU/AI4MedLife_imaging_2021/tree/main/templates) folder on this page. Completed assignments need to be uploaded to LU box folders. You will receive the links to these LU box folders after the start of the course via email.
 
 ### To receive 1.5 ECTS:
 
