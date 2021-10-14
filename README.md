@@ -102,6 +102,16 @@ https://www.biorxiv.org/
 
 https://arxiv.org/
 
+Datasets can for example be found on:
+
+https://datasetsearch.research.google.com/
+
+https://archive.ics.uci.edu/ml/index.php
+
+https://www.kaggle.com/datasets
+
+https://bbbc.broadinstitute.org/
+
 ### To receive 1.5 ECTS:
 
 •	Complete project 1, which consist of developing a concept for a SMALL AND FEASIBLE computer vision research project. The project is to be presented in an oral presentation on Oct 28 (also upload the presentation to LU box).
