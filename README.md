@@ -120,6 +120,7 @@ https://arxiv.org/
 
 Detailed instructions will be given in the course.
 
+People auditing the course cannot take part in the examinations but are welcome to listen to the presentations. 
 
 ## Additional resources
 You can find optional additional training material to deepen your knowledge on https://github.com/Aitslab/training.
