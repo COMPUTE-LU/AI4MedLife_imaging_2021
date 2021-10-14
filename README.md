@@ -94,6 +94,14 @@ It is not mandatory to attend all parts of the course to receive a pass grade as
 ## Examination
 Grades are pass/fail. All assignments are to be created using the templates in the ["templates"](https://github.com/COMPUTE-LU/AI4MedLife_imaging_2021/tree/main/templates) folder on this page. Completed assignments need to be uploaded to LU box folders. You will receive the links to these LU box folders after the start of the course via email.
 
+For project 1 and 2, you are expected to read at least one research article related to your projects. Suitable articles can for example be found on:
+
+https://www.ncbi.nlm.nih.gov/pubmed/
+
+https://www.biorxiv.org/
+
+https://arxiv.org/
+
 ### To receive 1.5 ECTS:
 
 •	Complete project 1, which consist of developing a concept for a small computer vision research project. The project is to be presented in an oral presentation on Oct 28 (also upload the presentation to LU box).
@@ -112,15 +120,6 @@ Grades are pass/fail. All assignments are to be created using the templates in t
 
 Detailed instructions will be given in the course.
 
- 
-## Literature
-For project 1 and 2, you are expected to read at least one research article related to your projects. Suitable articles can for example be found on:
-
-https://www.ncbi.nlm.nih.gov/pubmed/
-
-https://www.biorxiv.org/
-
-https://arxiv.org/
 
 ## Additional resources
 You can find optional additional training material to deepen your knowledge on https://github.com/Aitslab/training.
