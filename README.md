@@ -91,7 +91,7 @@ Oct 28
 
 
 ## Examination
-Grades are pass/fail.
+Grades are pass/fail. All assignments need to be uploaded to LU box folders. You will receive the links to these folders after the start of the course via email.
 
 To receive 1.5 ECTS:
 
