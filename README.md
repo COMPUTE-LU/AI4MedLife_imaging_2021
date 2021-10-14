@@ -88,6 +88,9 @@ Oct 28
 | 12:00 – 13:00  | Lunch break| | |
 | 13:00 – 15:00  | Project presentations (examination) | Marcus Klang, Sonja Aits | |
 
+Nov 17
+Project presentations (only for students in the 6 ECTS version)
+
 ## Attendance
 It is not mandatory to attend all parts of the course to receive a pass grade as the course material will be shared and can be studied independently. However, if you are going to miss more than half a day, please get in contact with the course leader. Attendance at the examination is mandatory but if needed, an alternative examination date can be set up.
 
