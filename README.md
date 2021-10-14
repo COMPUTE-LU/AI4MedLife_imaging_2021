@@ -7,7 +7,7 @@ Marcus Klang, LTH, Lund University
 
 ## Course description
 AI is a rapidly evolving technology that will be widely used in medical and life science research as well as clinical care. The aim of the course is to enable students to apply AI models in the analysis of images and videos and provide them with a deeper understanding of opportunities and challenges for using this technology in medicine and life science. This will enable students to work with AI in various ways in their PhD studies or later careers.
-The course is given as a 1.5 ECTS block course that can be extended with a 4.5 ECTS individual project.
+The course is given as a 1.5 ECTS block course that can be extended with an individual project to receive a total of 6 ECTS. It is not possible to receive credits for the project alone.
 
 ## Learning outcomes
 On passing of the course, the course participants shall be able to:
