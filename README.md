@@ -1,9 +1,9 @@
 # AI in Medicine and Life Sciences – AI for image and video data 
 
 ## Teachers
-Sonja Aits, github [SonjaAits](https://github.com/SonjaAits), Faculty of Medicine, Lund University (course coordinator)
+[Sonja Aits](https://github.com/SonjaAits), Faculty of Medicine, Lund University (course coordinator)
 
-Marcus Klang, LTH, Lund University
+[Marcus Klang](https://github.com/marcusklang), LTH, Lund University
 
 ## Course description
 AI is a rapidly evolving technology that will be widely used in medical and life science research as well as clinical care. The aim of the course is to enable students to apply AI models in the analysis of images and videos and provide them with a deeper understanding of opportunities and challenges for using this technology in medicine and life science. This will enable students to work with AI in various ways in their PhD studies or later careers.
