@@ -104,13 +104,13 @@ https://arxiv.org/
 
 ### To receive 1.5 ECTS:
 
-•	Complete project 1, which consist of developing a concept for a small computer vision research project. The project is to be presented in an oral presentation on Oct 28 (also upload the presentation to LU box).
+•	Complete project 1, which consist of developing a concept for a SMALL AND FEASIBLE computer vision research project. The project is to be presented in an oral presentation on Oct 28 (also upload the presentation to LU box).
 
 •	Submit a written review with suggestions for improvements for project 1 of two other students (the projects for reviewing will be assigned to you). Deadline Nov 1 (upload to LU box).
 
 ### To receive 6 ECTS:
 
-•	Complete project 1, which consist of developing a concept for a small computer vision research project. The project is to be presented in an oral presentation on Oct 28 (also upload the presentation to LU box).
+•	Complete project 1, which consist of developing a concept for a SMALL AND FEASIBLE computer vision research project. The project is to be presented in an oral presentation on Oct 28 (also upload the presentation to LU box).
 
 •	Submit a written review with suggestions for improvements for project 1 of two other students (the projects for reviewing will be assigned to you). Deadline Nov 1 (upload to LU box).
 
