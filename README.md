@@ -93,13 +93,13 @@ Oct 28
 ## Examination
 Grades are pass/fail. All assignments need to be uploaded to LU box folders. You will receive the links to these folders after the start of the course via email.
 
-To receive 1.5 ECTS:
+### To receive 1.5 ECTS:
 
 •	Complete project 1, which consist of developing a concept for a small computer vision research project. The project is to be presented in an oral presentation on Oct 28.
 
 •	Submit a written review with suggestions for improvements for project 1 of two other students (these will be assigned to you). Deadline Nov 1.
 
-To receive 6 ECTS:
+### To receive 6 ECTS:
 
 •	Complete project 1, which consist of developing a concept for a small computer vision research project. The project is to be presented in an oral presentation on Oct 28.
 
