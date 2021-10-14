@@ -94,8 +94,11 @@ Oct 28
  
 ## Literature
 For project 1 and 2, you are expected to read at least one research article related to your projects. Suitable articles can for example be found on:
+
 https://www.ncbi.nlm.nih.gov/pubmed/
+
 https://www.biorxiv.org/
+
 https://arxiv.org/
 
 ## Additional resources
