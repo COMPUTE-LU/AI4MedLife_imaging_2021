@@ -96,19 +96,19 @@ Grades are pass/fail. All assignments are to be created using the templates in t
 
 ### To receive 1.5 ECTS:
 
-•	Complete project 1, which consist of developing a concept for a small computer vision research project. The project is to be presented in an oral presentation on Oct 28.
+•	Complete project 1, which consist of developing a concept for a small computer vision research project. The project is to be presented in an oral presentation on Oct 28 (also upload the presentation to LU box).
 
-•	Submit a written review with suggestions for improvements for project 1 of two other students (these will be assigned to you). Deadline Nov 1.
+•	Submit a written review with suggestions for improvements for project 1 of two other students (the projects for reviewing will be assigned to you). Deadline Nov 1 (upload to LU box).
 
 ### To receive 6 ECTS:
 
-•	Complete project 1, which consist of developing a concept for a small computer vision research project. The project is to be presented in an oral presentation on Oct 28.
+•	Complete project 1, which consist of developing a concept for a small computer vision research project. The project is to be presented in an oral presentation on Oct 28 (also upload the presentation to LU box).
 
-•	Submit a written review with suggestions for improvements for project 1 of two other students (these will be assigned to you). Deadline Nov 1.
+•	Submit a written review with suggestions for improvements for project 1 of two other students (the projects for reviewing will be assigned to you). Deadline Nov 1 (upload to LU box).
 
-•	Complete project 2, in which you execute all or part of your project 1, including training and evaluating at least two models. The project is to be summarized in a written report (deadline Nov 14) and presented in an oral presentation on Nov 17.
+•	Complete project 2, in which you execute all or part of your project 1, including training and evaluating at least two models. The project is to be summarized in a written report (deadline Nov 14) and presented in an oral presentation on Nov 17 (also upload the presentation to LU box).
 
-•	Submit a written review with suggestions for improvements for the project 2 of one other student (this will be assigned to you). Deadline Nov 24.
+•	Submit a written review with suggestions for improvements for the project 2 of one other student (this will be assigned to you). Deadline Nov 24 (upload to LU box).
 
 Detailed instructions will be given in the course.
 
