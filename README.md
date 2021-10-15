@@ -78,7 +78,7 @@ Oct 25
 Oct 26 
 | Time       | Title          | Teacher  | Material  |
 | ------------- |:-------------:| :-----:| :-----:|
-| 15:00 – 16:00  | Journal club | Marcus Klang, Sonja Aits | |
+| 15:00 – 16:00  | Journal club | Marcus Klang, Sonja Aits | [Journal club paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7153852/)|
 
  
 Oct 28 
