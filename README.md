@@ -92,6 +92,15 @@ Nov 17
 
 Project presentations (only for students in the 6 ECTS version). Exact time to be determined.
 
+## Journal club
+Read the paper before journal club´on Oct 26:
+Lugagne 2020, DeLTA: Automated cell segmentation, tracking, and lineage reconstruction using deep learning
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7153852/
+
+Discussion of journal club questions 40 min in breakout rooms
+Discussion main points 20 min in full group
+
+
 ## Attendance
 It is not mandatory to attend all parts of the course to receive a pass grade as the course material will be shared and can be studied independently. However, if you are going to miss more than half a day, please get in contact with the course leader. Attendance at the examination is mandatory but if needed, an alternative examination date can be set up.
 
