@@ -78,7 +78,7 @@ Oct 25
 Oct 26 
 | Time       | Title          | Teacher  | Material  |
 | ------------- |:-------------:| :-----:| :-----:|
-| 15:00 – 16:00  | Journal club | Marcus Klang, Sonja Aits | [journal club paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7153852/), [journal club questions] (https://github.com/COMPUTE-LU/AI4MedLife_imaging_2021/blob/main/AI4MedLife_journalclub.docx)|
+| 15:00 – 16:00  | Journal club | Marcus Klang, Sonja Aits | [journal club paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7153852/), [journal club questions](https://github.com/COMPUTE-LU/AI4MedLife_imaging_2021/blob/main/AI4MedLife_journalclub.docx)|
 
  
 Oct 28 
