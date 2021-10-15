@@ -84,9 +84,9 @@ Oct 26
 Oct 28 
 | Time       | Title          | Teacher  | Material  |
 | ------------- |:-------------:| :-----:| :-----:|
-| 09:00 – 12:00  | Project presentations (examination)| Marcus Klang, Sonja Aits | |
+| 09:00 – 12:00  | Project 1 presentations (examination)| Marcus Klang, Sonja Aits | |
 | 12:00 – 13:00  | Lunch break| | |
-| 13:00 – 15:00  | Project presentations (examination) | Marcus Klang, Sonja Aits | |
+| 13:00 – 15:00  | Project 1 presentations (examination) | Marcus Klang, Sonja Aits | |
 
 Nov 17
 
