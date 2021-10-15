@@ -108,7 +108,7 @@ Nov 17 (only for 6 ECTS course variant)
 
 
 ## Journal club
-Read the paper before journal club´on Oct 26:
+Read the paper before journal club on Oct 26:
 
 Lugagne 2020, DeLTA: Automated cell segmentation, tracking, and lineage reconstruction using deep learning
 
