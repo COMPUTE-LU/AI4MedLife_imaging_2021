@@ -136,8 +136,11 @@ Detailed instructions will be given in the course.
 
 People auditing the course cannot take part in the examinations or receive credits. 
 
-## Additional resources
+## Additional resources (optional)
 You can find optional additional training material to deepen your knowledge on https://github.com/Aitslab/training.
+
+### Articles
+Singh et al. (2020), [3D Deep Learning on Medical Images: A Review](https://arxiv.org/abs/2004.00218)
 
 
 
