@@ -78,7 +78,7 @@ Oct 25
 Oct 26 
 | Time       | Title          | Teacher  | Material  |
 | ------------- |:-------------:| :-----:| :-----:|
-| 15:00 – 16:00  | Journal club | Marcus Klang, Sonja Aits | [Journal club paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7153852/)|
+| 15:00 – 16:00  | Journal club | Marcus Klang, Sonja Aits | [journal club paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7153852/), [journal club questions] (https://github.com/COMPUTE-LU/AI4MedLife_imaging_2021/blob/main/AI4MedLife_journalclub.docx)|
 
  
 Oct 28 
@@ -94,10 +94,15 @@ Project presentations (only for students in the 6 ECTS version). Exact time to b
 
 ## Journal club
 Read the paper before journal club´on Oct 26:
+
 Lugagne 2020, DeLTA: Automated cell segmentation, tracking, and lineage reconstruction using deep learning
+
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7153852/
 
-Discussion of journal club questions 40 min in breakout rooms
+At the journal club:
+
+Discussion of [journal club questions] (https://github.com/COMPUTE-LU/AI4MedLife_imaging_2021/blob/main/AI4MedLife_journalclub.docx) 40 min in breakout rooms
+
 Discussion main points 20 min in full group
 
 
