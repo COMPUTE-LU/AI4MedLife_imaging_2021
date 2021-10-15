@@ -1,0 +1,21 @@
+Journal club
+
+Lugagne 2020, DeLTA: Automated cell segmentation, tracking, and lineage reconstruction using deep learning
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7153852/
+
+
+
+Discuss the following questions in your group, 40 min in total
+
+1.	What was the goal of the study? What type of machine learning tasks were performed?
+
+2.	What type of data and of networks were used? 
+
+3.	How were the models evaluated?
+
+4.	What are the limitations of the study?
+
+5.	What complementary or additional work should be done as a next step?
+
+6.	To what other research problems could these models be applied?
