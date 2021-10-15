@@ -171,5 +171,6 @@ You can find optional additional training material to deepen your knowledge on h
 ### Articles
 Singh et al. (2020), [3D Deep Learning on Medical Images: A Review](https://arxiv.org/abs/2004.00218)
 
-
+### Videos
+overview over history of computer vision: https://www.youtube.com/watch?v=dJYGatp4SvA
 
