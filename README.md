@@ -88,6 +88,17 @@ Oct 28
 | 12:00 – 13:00  | Lunch break| | |
 | 13:00 – 15:00  | Project 1 presentations (examination) | Marcus Klang, Sonja Aits | |
 
+#### For 6 ECTS version only:
+Nov 3
+| Time       | Title          | Teacher  | Material  |
+| ------------- |:-------------:| :-----:| :-----:|
+| 10:00 – 12:00  | Project 2 advice session (optional)| Marcus Klang, Sonja Aits | |
+
+Nov 10 (only for 6 ECTS course variant)
+| Time       | Title          | Teacher  | Material  |
+| ------------- |:-------------:| :-----:| :-----:|
+| 09:00 – 11:00  | Project 2 advice session (optional)| Marcus Klang, Sonja Aits | |
+
 Nov 17 (only for 6 ECTS course variant)
 | Time       | Title          | Teacher  | Material  |
 | ------------- |:-------------:| :-----:| :-----:|
