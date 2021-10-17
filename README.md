@@ -39,8 +39,8 @@ Students have to have a basic understanding of AI concepts, e.g. from attending 
 Oct 18
 |Time       |Title | Teacher  | Material  |
 | ------------- |:--------------------------------------------:| :-----:| :-----:|
-| 09:00 – 09:45|Course and participant introduction (including journal club and examination instructions)| Sonja Aits |[slides](https://github.com/COMPUTE-LU/AI4MedLife_imaging_2021/blob/main/slides/AIimage_day1_1.pptx)|
-| 09:45 – 10:15|Brief catch-up: what is AI, what is medicine and life sciences? |Sonja Aits||
+| 09:00 – 09:45|Course and participant introduction (including journal club and examination instructions)| Sonja Aits |[slides](https://github.com/COMPUTE-LU/AI4MedLife_imaging_2021/blob/main/slides/AI4MedLife_imaging_day1_1.pptx)|
+| 09:45 – 10:15|Brief catch-up: what is AI, what is medicine and life sciences? |Sonja Aits|[slides](https://github.com/COMPUTE-LU/AI4MedLife_imaging_2021/blob/main/slides/AI4MedLife_imaging_day1_2.pptx)|
 | Ca 10:15 – 10:30|Break |||
 | 10:30 – 12:00 |Computer vision tasks and their applications in medicine and life sciences  |Sonja Aits||
 | 12:00 – 13:00 |Lunch break  |||
