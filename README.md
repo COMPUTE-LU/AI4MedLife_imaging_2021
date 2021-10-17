@@ -175,6 +175,8 @@ ImgageNet paper: https://ieeexplore.ieee.org/document/5206848
 
 AlexNet paper: https://dl.acm.org/doi/10.1145/3065386
 
+Li et al. (2021), [A Review of the Deep Learning Methods for Medical Images Super Resolution Problems](https://doi.org/10.1016/j.irbm.2020.08.004)
+
 ### Videos
 overview over history of computer vision: https://www.youtube.com/watch?v=dJYGatp4SvA
 
