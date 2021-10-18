@@ -127,6 +127,28 @@ It is not mandatory to attend all parts of the course to receive a pass grade as
 ## Examination
 Grades are pass/fail. All assignments are to be created using the templates in the ["templates"](https://github.com/COMPUTE-LU/AI4MedLife_imaging_2021/tree/main/templates) folder on this page. Completed assignments need to be uploaded to LU box folders. You will receive the links to these LU box folders after the start of the course via email.
 
+You are encouraged to discuss the course materials and your project ideas with your classmates and explore and even partially re-use publicly available code. However, all work you submit must be your own at least in part, re-used code must be clearly labelled. Shared projects or re-submission of prior course or research work you have created yourself is not allowed.
+
+This is encouraged:
+
+- Getting feedback on project ideas from fellow course members, friends or colleagues
+- Discussing general approaches to solving computer vision tasks with others
+- Looking at reserach articles, tutorials or github repos to understand how others have approached similar tasks
+- Re-using some code, e.g. from articles, tutorials or github repos (but with clear source attribution!)
+- Re-using graphical elements (e.g. diagrams, cartoons) you or others have created in other contexts for the introduction part of your presentation
+
+
+This is is not allowed and constitutes plagiarism:
+
+- Submitting the same or highly similar presentation, report, review or code as another course member. A mere change of the research question is not sufficiently different either if the project strategy is otherwise identical.
+- Copying all or almost all code, presentation content or report content from other sources or from one of your previous courses, thesis works or research projects
+- Re-using code written by others without clear source attribution for each line of copied code
+- Copying text sections for your report or slides for your presentation from other sources
+
+Basically, follow common sense and sound scientific and educational practice. If in doubt, please ask!
+  
+ 
+
 For project 1 and 2, you are expected to read at least one research article related to your projects. Suitable articles can for example be found on:
 
 https://www.ncbi.nlm.nih.gov/pubmed/
