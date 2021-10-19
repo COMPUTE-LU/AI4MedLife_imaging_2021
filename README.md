@@ -49,7 +49,7 @@ Oct 18
 Oct 19 
 | Time       | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Title &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Teacher  | Material  |
 | ------------- |:--------------------------------------------:| :-----:| :-----:|
-| 09:00 – 10:45|Common model architectures and their applications| Sonja Aits ||
+| 09:00 – 10:45|Common model architectures and their applications| Sonja Aits |[CS231n notes](https://cs231n.github.io/convolutional-networks/|
 | Ca 10:45 – 11:00 |Break |||
 |11:15 – 12:00 |Evaluation metrics and strategies |Sonja Aits||
 |12:00 – 13:00 |Lunch break |||
