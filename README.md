@@ -44,14 +44,14 @@ Oct 18
 | Ca 10:15 – 10:30|Break |||
 | 10:30 – 12:00 |Computer vision tasks and their applications in medicine and life sciences  |Sonja Aits||
 | 12:00 – 13:00 |Lunch break  |||
-| 13:00 – 16:00 |Technical concepts in machine learning and computer vision   |Marcus Klang||
+| 13:00 – 16:00 |Technical concepts in machine learning and computer vision   |Marcus Klang|[notebook](https://github.com/COMPUTE-LU/AI4MedLife_imaging_2021/blob/main/slides/Ai4MedLife_imaging_day1_4/AI4MedLife_imaging_day_1_4.ipynb)|
 
 Oct 19 
 | Time       | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Title &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Teacher  | Material  |
 | ------------- |:--------------------------------------------:| :-----:| :-----:|
-| 09:00 – 10:45|Common model architectures and their applications| Sonja Aits |[CS231n notes](https://cs231n.github.io/convolutional-networks/)|
-| Ca 10:45 – 11:00 |Break |||
-|11:15 – 12:00 |Evaluation metrics and strategies |Sonja Aits||
+| 09:00 – 10:45|Common model architectures and their applications| Sonja Aits |[slides](https://github.com/COMPUTE-LU/AI4MedLife_imaging_2021/blob/main/slides/AI4MedLife_imaging_day2_1.pptx]), [CS231n notes](https://cs231n.github.io/convolutional-networks/)|
+| Ca 10:00 – 10:15 |Break |||
+|11:15 – 12:00 |Evaluation metrics and strategies |Sonja Aits|[slides](https://github.com/COMPUTE-LU/AI4MedLife_imaging_2021/blob/main/slides/AI4MedLife_imaging_day2_2.pptx]|
 |12:00 – 13:00 |Lunch break |||
 |13:00 – 16:00 |How to train and evaluate a model (including demo) |Marcus Klang ||
 
