@@ -44,7 +44,7 @@ Oct 18
 | Ca 10:15 – 10:30|Break |||
 | 10:30 – 12:00 |Computer vision tasks and their applications in medicine and life sciences  |Sonja Aits||
 | 12:00 – 13:00 |Lunch break  |||
-| 13:00 – 16:00 |Technical concepts in machine learning and computer vision   |Marcus Klang|[notebook](https://github.com/COMPUTE-LU/AI4MedLife_imaging_2021/blob/main/slides/Ai4MedLife_imaging_day1_4/AI4MedLife_imaging_day_1_4.ipynb)|
+| 13:00 – 15:00 |Technical concepts in machine learning and computer vision   |Marcus Klang|[notebook](https://github.com/COMPUTE-LU/AI4MedLife_imaging_2021/blob/main/slides/Ai4MedLife_imaging_day1_4/AI4MedLife_imaging_day_1_4.ipynb)|
 
 Oct 19 
 | Time       | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Title &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Teacher  | Material  |
