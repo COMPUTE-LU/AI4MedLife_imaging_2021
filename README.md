@@ -49,7 +49,7 @@ Oct 18
 Oct 19 
 | Time       | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Title &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Teacher  | Material  |
 | ------------- |:--------------------------------------------:| :-----:| :-----:|
-| 09:00 – 10:45|Common model architectures and their applications| Sonja Aits |[slides](https://github.com/COMPUTE-LU/AI4MedLife_imaging_2021/blob/main/slides/AI4MedLife_imaging_day2_1.pptx), [CS231n notes](https://cs231n.github.io/convolutional-networks/)|
+| 09:00 – 10:45|Common model architectures and their applications| Sonja Aits |[slides](https://github.com/COMPUTE-LU/AI4MedLife_imaging_2021/blob/main/slides/AI4MedLife_Imaging_day2_1.pptx), [CS231n notes](https://cs231n.github.io/convolutional-networks/)|
 | Ca 10:00 – 10:15 |Break |||
 |11:15 – 12:00 |Evaluation metrics and strategies |Sonja Aits|[slides](https://github.com/COMPUTE-LU/AI4MedLife_imaging_2021/blob/main/slides/AI4MedLife_imaging_day2_2.pptx)|
 |12:00 – 13:00 |Lunch break |||
