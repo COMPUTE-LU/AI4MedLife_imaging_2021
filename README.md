@@ -199,7 +199,6 @@ Li et al. (2021), [A Review of the Deep Learning Methods for Medical Images Supe
 
 ImgageNet paper: https://ieeexplore.ieee.org/document/5206848
 
-AlexNet paper: https://dl.acm.org/doi/10.1145/3065386
 
 
 
