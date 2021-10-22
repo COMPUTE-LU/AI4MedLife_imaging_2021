@@ -6,6 +6,8 @@ If you want to run the code in goolge colab the easiest way is to go to https://
 
 https://github.com/COMPUTE-LU/AI4MedLife_imaging_2021/blob/main/lab/Lab%20-%20handout.ipynb
 
+Then go to Runtime > Change runtime types and select GPU
+
 If you are not familiar with colab, there are more instructions for using it here: https://github.com/Aitslab/training/blob/master/tutorials/colab.md
 
 To run on your local machine you should have a GPU.
