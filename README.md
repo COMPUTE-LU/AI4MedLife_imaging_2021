@@ -208,3 +208,6 @@ ImgageNet paper: https://ieeexplore.ieee.org/document/5206848
 ### Videos
 overview over history of computer vision: https://www.youtube.com/watch?v=dJYGatp4SvA
 
+## License
+This repo is made public as an open educational resource. All material in it is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). If you teach a course based on this material, we would appreciate your feedback so we can improve it further.
+
