@@ -53,14 +53,14 @@ Oct 19
 | Ca 10:00 – 10:15 |Break |||
 |11:15 – 12:00 |Evaluation metrics and strategies |Sonja Aits|[slides](https://github.com/COMPUTE-LU/AI4MedLife_imaging_2021/blob/main/slides/AI4MedLife_imaging_day2_2.pptx)|
 |12:00 – 13:00 |Lunch break |||
-|13:00 – 16:00 |How to train and evaluate a model (including demo) |Marcus Klang ||
+|13:00 – 16:00 |How to train and evaluate a model (including demo) |Marcus Klang |[slides](https://github.com/COMPUTE-LU/AI4MedLife_imaging_2021/tree/main/slides/Ai4MedLife_imaging_day2_3)|
 
 Oct 22 
 | Time       | Title          | Teacher  | Material  |
 | ------------- |:-------------:| :-----:| :-----:|
 | 09:00 – 09:45 | Intro to lab task| Marcus Klang | |
 | Ca 09:45 – 10:00  | Break  |  | |
-| 10:00 – 12:00   | Lab: image classification   | Self-directed  | |
+| 10:00 – 12:00   | Lab: image classification   | Self-directed  |[notebook and instructions](https://github.com/COMPUTE-LU/AI4MedLife_imaging_2021/blob/main/lab/) |
 | 12:00 – 13:00 | Lunch break  |  | |
 | 13:00 – 14:30  | Lab and examination Q & A  | Marcus Klang, Sonja Aits | |
 
@@ -186,6 +186,9 @@ https://bbbc.broadinstitute.org/
 Detailed instructions will be given in the course.
 
 People auditing the course cannot take part in the examinations or receive credits. 
+
+## Teams channel
+Course participants will be invited to the COMPUTE member team on Teams. There you can find the AI for images and video channel in which you can discuss the lab exercise and other course content. You can also use it after the course as a peer learning group to exchange experiences or find more things to learn together or projects to collaborate on.
 
 ## Additional resources (optional)
 You can find optional additional training material to deepen your knowledge on https://github.com/Aitslab/training.
