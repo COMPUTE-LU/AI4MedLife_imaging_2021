@@ -60,7 +60,7 @@ Oct 22
 | ------------- |:-------------:| :-----:| :-----:|
 | 09:00 – 09:45 | Intro to lab task| Marcus Klang | |
 | Ca 09:45 – 10:00  | Break  |  | |
-| 10:00 – 12:00   | Lab: image classification   | Self-directed  | |
+| 10:00 – 12:00   | Lab: image classification   | Self-directed  |[notebook and instructions](https://github.com/COMPUTE-LU/AI4MedLife_imaging_2021/blob/main/lab/) |
 | 12:00 – 13:00 | Lunch break  |  | |
 | 13:00 – 14:30  | Lab and examination Q & A  | Marcus Klang, Sonja Aits | |
 
