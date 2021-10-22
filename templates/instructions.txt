@@ -1,3 +1,10 @@
 This folder contains the templates for the examinations
 
-AI4MedLife_imaging_project1template.pptx should be used to create the project 1 presentation. Please rename it to project1_yourfirstname_yourlastname.pptx and upload the completed presentation to the LU box folder for the presentations. You will receive an invite to this via email on the first course day.
+AI4MedLife_imaging_project1template.pptx should be used to create the project 1 presentation. 
+Please rename it to project1_yourfirstname_yourlastname.pptx and upload the completed presentation to the LU box folder for the project 1 presentations. 
+You will receive an invite to this via email on the first course day.
+
+AI4MedLife_project1reviewtemplate.docx should be used to create the project 1 review. 
+Please rename it to project1review_yourfirstname_yourlastname.docx and upload the completed presentation to the LU box folder for the project 1 reviews.
+The projects you are supposed to review will be in listed in the Oct28 schedule in LU box.
+
