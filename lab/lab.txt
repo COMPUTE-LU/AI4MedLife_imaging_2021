@@ -10,7 +10,8 @@ There you can paste the link to the notebook:
 
 https://github.com/COMPUTE-LU/AI4MedLife_imaging_2021/blob/main/lab/Lab%20-%20handout.ipynb
 
-Then go to Runtime > Change runtime types and select GPU
+Then go to Runtime > Change runtime types and select GPU.
+In the section 0. replace the code with !pip install -U scikit-learn with !pip install -U scikit-learn imbalanced-learn
 
 If you are not familiar with colab, there are more instructions for using it here: https://github.com/Aitslab/training/blob/master/tutorials/colab.md
 
