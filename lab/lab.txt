@@ -1,8 +1,12 @@
-The task for the lab is to run the code in the notebook and fill in your own code sections were indicated. When you are done with that you can play around more with the code and different model variants. Some suggestions for what to try are in the bottom of the notebook but of course you can try other things as well. In the afternoon, you can show your best results, get feedback on code and further improvements and ask questions about things that were unclear.
+The task for the lab is to run the code in the notebook and fill in your own code sections were indicated. 
+When you are done with that you can play around more with the code and different model variants. 
+Some suggestions for what to try are in the bottom of the notebook but of course you can try other things as well. 
+In the afternoon, you can show your best results, get feedback on code and further improvements and ask questions about things that were unclear.
 
 To find inspiration for the code to write, look at Marcus' lecture slides and tensorflow2 documentation.
 
-If you want to run the code in goolge colab the easiest way is to go to https://colab.research.google.com/ and then select the github tab in the popup. There you can paste the link to the notebook:
+If you want to run the code in goolge colab the easiest way is to go to https://colab.research.google.com/ and then select the github tab in the popup. 
+There you can paste the link to the notebook:
 
 https://github.com/COMPUTE-LU/AI4MedLife_imaging_2021/blob/main/lab/Lab%20-%20handout.ipynb
 
