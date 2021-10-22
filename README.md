@@ -187,6 +187,9 @@ Detailed instructions will be given in the course.
 
 People auditing the course cannot take part in the examinations or receive credits. 
 
+## Teams channel
+Course participants will be invited to the COMPUTE member team on Teams. There you can find the AI for images and video channel in which you can discuss the lab exercise and other course content. You can also use it after the course as a peer learning group to exchange experiences or find more things to learn together or projects to collaborate on.
+
 ## Additional resources (optional)
 You can find optional additional training material to deepen your knowledge on https://github.com/Aitslab/training.
 
