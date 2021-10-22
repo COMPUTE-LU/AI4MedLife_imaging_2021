@@ -53,7 +53,7 @@ Oct 19
 | Ca 10:00 – 10:15 |Break |||
 |11:15 – 12:00 |Evaluation metrics and strategies |Sonja Aits|[slides](https://github.com/COMPUTE-LU/AI4MedLife_imaging_2021/blob/main/slides/AI4MedLife_imaging_day2_2.pptx)|
 |12:00 – 13:00 |Lunch break |||
-|13:00 – 16:00 |How to train and evaluate a model (including demo) |Marcus Klang ||
+|13:00 – 16:00 |How to train and evaluate a model (including demo) |Marcus Klang |[slides](https://github.com/COMPUTE-LU/AI4MedLife_imaging_2021/tree/main/slides/Ai4MedLife_imaging_day2_3)|
 
 Oct 22 
 | Time       | Title          | Teacher  | Material  |
