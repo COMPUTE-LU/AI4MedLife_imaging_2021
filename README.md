@@ -67,7 +67,7 @@ Oct 22
 Oct 25 
 | Time       | Title          | Teacher  | Material  |
 | ------------- |:-------------:| :-----:| :-----:|
-| 09:00 – 12:00| Demo: object segmentation with U-net (break ca 10:30)  | Marcus Klang  | |
+| 10:00 – 12:00| Demo: object segmentation with U-net (break ca 10:45) | Marcus Klang  | |
 | 12:00 – 13:00 | Lunch break  |  | |
 | 13:00 – 14:00 | Ethical, legal and societal implications of AI in medicine and life sciences   |  Sonja Aits| |
 | Ca 14:00 – 14:15  | Break  |  | |
